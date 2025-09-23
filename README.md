@@ -124,3 +124,6 @@ For issues, questions, or contributions, please:
 
 - Ollama team for the base server
 - Contributors to Flask and related packages
+
+2025-09-19
+Updated and tested with aider and qwen3
